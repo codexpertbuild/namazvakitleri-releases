@@ -4,14 +4,14 @@
   "announcements": [
     {
       "id": "duyuru-1",
-      "active": true,
+      "active": false,
       "title": "Çok yakında: İmsakiye",
       "body": "Ramazan'a özel iftar ve sahur vakitlerini içeren detaylı imsakiye çok yakında uygulamada olacak. Heyecanla bekleyin!",
       "date": "13 Mayıs 2026"
     },
     {
       "id": "duyuru-2",
-      "active": true,
+      "active": false,
       "title": "Buraya başlık yaz",
       "body": "Buraya duyuru metnini yaz.",
       "date": "Tarih yaz"
