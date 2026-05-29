@@ -10,8 +10,8 @@
       "date": "13 Mayıs 2026"
     },
     {
-      "id": "duyuru-2",
-      "active": false,
+      "id": "duyuru-2 deneme",
+      "active": true,
       "title": "Buraya başlık yaz",
       "body": "Buraya duyuru metnini yaz.",
       "date": "Tarih yaz"
