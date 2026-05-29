@@ -1,9 +1,15 @@
 {
   "announcements": [
     {
+      "id": "yeni-tema-2026",
+      "title": "Yeni temalar geldi!",
+      "body": "Uygulamaya 5 yeni renk teması eklendi. Ayarlardan deneyin.",
+      "date": "20 Mayıs 2026"
+    },
+    {
       "id": "imsakiye-soon",
       "title": "Çok yakında: İmsakiye",
-      "body": "Ramazan'a özel iftar ve sahur vakitlerini içeren detaylı imsakiye çok yakında uygulamada olacak. Heyecanla bekleyin!",
+      "body": "Ramazan'a özel imsakiye çok yakında!",
       "date": "13 Mayıs 2026"
     }
   ]
