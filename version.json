@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/codexpertbuild/namazvakitleri-releases/releases/download/v0.3.0/NamazVakitleri.apk",
-  "notes": "Geri bildirimleriniz için teşekkürler."
+  "versionCode": 15,
+  "versionName": "0.3.1",
+  "apkUrl": "https://github.com/codexpertbuild/namazvakitleri-releases/releases/download/v0.3.1/NamazVakitleri.apk",
+  "notes": "Dokunarak güncelleyebilirsiniz. Performans iyileştirmeleri ve hata düzeltmeleri."
 }
