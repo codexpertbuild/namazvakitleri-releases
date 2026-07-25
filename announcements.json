@@ -1,88 +1,64 @@
 {
-  "_NASIL_KULLANILIR": "Asagidaki 10 sablondan SADECE yayinlamak istedigini active:true yap, digerlerini active:false birak. Sadece title/body/date/audience metnini degistir. id'yi DEGISTIRME (her sablonun id'si farkli olmali). Yeni duyuru icin bir pasif sablonu active:true yap.",
-
-  "_AUDIENCE_NEDIR": "audience = duyuruyu kim gorecek. 3 deger: 'all' (HERKES gorur), 'free' (SADECE ucretsiz kullanicilar gorur), 'premium' (SADECE premium kullanicilar gorur). Alan yoksa veya bos ise 'all' kabul edilir. Ornek: premium'a ozel ozellik duyurusu icin 'premium', ucretsiz kullaniciyi premium'a davet icin 'free', genel duyuru icin 'all'.",
-
   "announcements": [
     {
-      "id": "duyuru-1",
-      "active": false,
+      "id": "hosgeldin-lansman",
+      "active": true,
       "audience": "all",
-      "title": "Çok yakında: İmsakiye",
-      "body": "Ramazan'a özel iftar ve sahur vakitlerini içeren detaylı imsakiye çok yakında uygulamada olacak. Heyecanla bekleyin!",
-      "date": "13 Mayıs 2026"
+      "type": "update",
+      "notify": false,
+      "date": "Temmuz 2026",
+      "title": "Tam Zamanı yayında",
+      "body": "Uygulamamız Google Play'de yayında. Görüş ve önerilerinizi iletişim sayfasından bekliyoruz; her e-postayı tek tek okuyoruz.",
+      "title_en": "Tam Zamanı is live",
+      "body_en": "The app is now on Google Play. Share your thoughts through the contact page; we read every email one by one.",
+      "title_de": "Tam Zamanı ist da",
+      "body_de": "Die App ist jetzt bei Google Play. Teilen Sie uns Ihre Wünsche über die Kontaktseite mit; wir lesen jede E-Mail.",
+      "title_ru": "Tam Zamanı уже доступно",
+      "body_ru": "Приложение вышло в Google Play. Делитесь пожеланиями через страницу контактов; мы читаем каждое письмо.",
+      "title_ar": "تطبيق Tam Zamanı متاح الآن",
+      "body_ar": "التطبيق متاح الآن على Google Play. شاركونا آراءكم عبر صفحة التواصل؛ نقرأ كل رسالة.",
+      "title_ur": "Tam Zamanı اب دستیاب ہے",
+      "body_ur": "ایپ اب Google Play پر ہے۔ رابطہ صفحے سے اپنی رائے بھیجیں؛ ہم ہر ای میل پڑھتے ہیں۔"
     },
     {
-      "id": "duyuru-2",
+      "id": "sablon-ozellik-vitrini-free",
       "active": false,
       "audience": "free",
-      "title": "Lansmana özel Premium fırsatı",
-      "body": "Premium'a şimdi geçenler, tüm özelliklere ömür boyu erişimi indirimli fiyatla alıyor. Bu fırsat kısa süreli!",
-      "date": "Tarih yaz"
+      "type": "update",
+      "notify": false,
+      "date": "Ay Yıl",
+      "title": "Canlı Vakit Takibi",
+      "body": "Vakte kalan süre bildirim çubuğunda canlı bar ile akıyor. Premium ve denemede açık.",
+      "title_en": "Live Prayer Countdown",
+      "body_en": "The time left to the next prayer flows as a live bar in your notifications. Available in Premium and trial."
     },
     {
-      "id": "duyuru-3",
+      "id": "sablon-premium-tesekkur",
       "active": false,
       "audience": "premium",
-      "title": "Premium üyelere teşekkürler",
-      "body": "Desteğiniz için teşekkür ederiz. Yeni eklenen özellikler artık hesabınızda aktif — keşfetmeye başlayın!",
-      "date": "Tarih yaz"
+      "type": "update",
+      "notify": true,
+      "date": "Ay Yıl",
+      "title": "Premium'unuza yeni özellik",
+      "body": "Premium'unuza yeni bir özellik eklendi: buraya özelliğin adı ve tek cümlelik faydası. Hayırlı olsun.",
+      "title_en": "New in your Premium",
+      "body_en": "A new feature has been added to your Premium: feature name and its benefit in one sentence. Enjoy."
     },
     {
-      "id": "duyuru-4",
+      "id": "sablon-kandil-tebrigi",
       "active": false,
       "audience": "all",
-      "title": "Buraya başlık yaz",
-      "body": "Buraya duyuru metnini yaz.",
-      "date": "Tarih yaz"
-    },
-    {
-      "id": "duyuru-5",
-      "active": false,
-      "audience": "all",
-      "title": "Buraya başlık yaz",
-      "body": "Buraya duyuru metnini yaz.",
-      "date": "Tarih yaz"
-    },
-    {
-      "id": "duyuru-6",
-      "active": false,
-      "audience": "all",
-      "title": "Buraya başlık yaz",
-      "body": "Buraya duyuru metnini yaz.",
-      "date": "Tarih yaz"
-    },
-    {
-      "id": "duyuru-7",
-      "active": false,
-      "audience": "all",
-      "title": "Buraya başlık yaz",
-      "body": "Buraya duyuru metnini yaz.",
-      "date": "Tarih yaz"
-    },
-    {
-      "id": "duyuru-8",
-      "active": false,
-      "audience": "all",
-      "title": "Buraya başlık yaz",
-      "body": "Buraya duyuru metnini yaz.",
-      "date": "Tarih yaz"
-    },
-    {
-      "id": "duyuru-9",
-      "active": false,
-      "audience": "all",
-      "title": "Buraya başlık yaz",
-      "body": "Buraya duyuru metnini yaz.",
-      "date": "Tarih yaz"
-    },
-    {
-      "id": "duyuru-10",
-      "active": false,
-      "audience": "all",
-      "title": "Buraya başlık yaz",
-      "body": "Buraya duyuru metnini yaz.",
-      "date": "Tarih yaz"
+      "type": "update",
+      "notify": true,
+      "date": "Ay Yıl",
+      "title": "Kandiliniz mübarek olsun",
+      "body": "Bu mübarek gecenin size ve sevdiklerinize huzur getirmesini dileriz.",
+      "title_en": "Blessed night",
+      "body_en": "May this blessed night bring peace to you and your loved ones.",
+      "title_ar": "ليلة مباركة",
+      "body_ar": "نسأل الله أن تحمل هذه الليلة المباركة السكينة لكم ولأحبتكم.",
+      "title_ur": "مبارک رات",
+      "body_ur": "دعا ہے کہ یہ مبارک رات آپ اور آپ کے پیاروں کے لیے سکون لائے۔"
     }
   ]
 }
