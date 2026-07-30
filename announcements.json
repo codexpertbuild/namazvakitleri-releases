@@ -2,7 +2,7 @@
   "announcements": [
     {
       "id": "hosgeldin-lansman",
-      "active": true,
+      "active": false,
       "audience": "all",
       "type": "update",
       "notify": false,
