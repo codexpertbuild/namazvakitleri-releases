@@ -37,11 +37,7 @@ Bildirime dokunarak güncellemeyi indirip kurabilirsiniz.
 
 ---
 
-## Geliştirici
 
-**CodeXpert** — Seftin Güler
-İletişim: codexpert.build@gmail.com
-Web: codexpertbuild.com
 
 ---
 
