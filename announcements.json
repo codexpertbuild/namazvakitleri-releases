@@ -1,13 +1,13 @@
 {
   "announcements": [
     {
-      "id": "onerilerinizi-bekliyoruz",
-      "active": true,
+      "id": "onerilerinizi-bekliyoruz-2",
+      "active": false,
       "audience": "debug",
       "notify": true,
       "date": "Eylül 2026",
-      "title": "Önerilerinizi bekliyoruz!",
-      "body": "Uygulamanın geliştirilmesi için fikirlerinize önem veriyoruz, bizlere ulaşabilirsiniz teşekkürler.",
+      "title": "Önerilerinizi bekliyoruz!-2",
+      "body": "Uygulamanın geliştirilmesi için fikirlerinize önem veriyoruz, bizlere ulaşabilirsiniz teşekkürler.-2",
       "clear_on_action": true
     },
     {
