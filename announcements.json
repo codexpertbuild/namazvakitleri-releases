@@ -19,18 +19,6 @@
       "body_ar": "التطبيق متاح الآن على Google Play. شاركونا آراءكم عبر صفحة التواصل؛ نقرأ كل رسالة.",
       "title_ur": "Tam Zamanı اب دستیاب ہے",
       "body_ur": "ایپ اب Google Play پر ہے۔ رابطہ صفحے سے اپنی رائے بھیجیں؛ ہم ہر ای میل پڑھتے ہیں۔"
-    },
-    {
-      "id": "sablon-premium-tesekkur",
-      "active": false,
-      "audience": "premium",
-      "type": "update",
-      "notify": true,
-      "date": "Ay Yıl",
-      "title": "Premium'unuza yeni özellik",
-      "body": "Premium'unuza yeni bir özellik eklendi: buraya özelliğin adı ve tek cümlelik faydası. Hayırlı olsun.",
-      "title_en": "New in your Premium",
-      "body_en": "A new feature has been added to your Premium: feature name and its benefit in one sentence. Enjoy."
     }
   ]
 }
