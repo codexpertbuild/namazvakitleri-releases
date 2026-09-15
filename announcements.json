@@ -1,21 +1,6 @@
 {
   "announcements": [
     {
-      "id": "haritalar-3",
-      "active": true,
-      "audience": "debug",
-      "notify": true,
-      "bypass": [
-        "ezan",
-        "okundu",
-        "bildirildi"
-      ],
-      "date": "Ekim 2026",
-      "title": "Haritaları denediniz mi?",
-      "body": "Uygulamanın geliştirilmesi için fikirlerinize önem veriyoruz, bizlere ulaşabilirsiniz teşekkürler.-2",
-      "clear_on_action": true
-    },
-    {
       "id": "yeni-surum-1-3-1-yayinda",
       "active": true,
       "audience": "all",
