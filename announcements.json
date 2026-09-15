@@ -1,3 +1,37 @@
 {
-  "announcements": []
+  "announcements": [
+    {
+      "id": "yeni-surum-1-3-1-yayinda",
+      "active": true,
+      "audience": "all",
+      "notify": true,
+      "date": "Eylül 2026",
+      "title": "Yeni sürüm 1.3.1 yayında!",
+      "body": "Yenilikler ve önemli iyileştirmeler içerir.Play Store'den güncelleyebilirsiniz.",
+      "link": "https://play.google.com/store/apps/details?id=com.codexpert.namazvakitleri&pcampaignid=web_share",
+      "dismissible": false,
+      "clear_on_action": true,
+      "title_en": "Version 1.3.1 is here!",
+      "body_en": "It brings new features and important improvements. Update from the Play Store.",
+      "date_en": "September 2026",
+      "title_de": "Version 1.3.1 ist da!",
+      "body_de": "Mit neuen Funktionen und wichtigen Verbesserungen. Jetzt im Play Store aktualisieren.",
+      "date_de": "September 2026",
+      "title_fr": "La version 1.3.1 est disponible !",
+      "body_fr": "Elle apporte des nouveautés et des améliorations importantes. Mettez à jour depuis le Play Store.",
+      "date_fr": "septembre 2026",
+      "title_es": "¡Ya está aquí la versión 1.3.1!",
+      "body_es": "Incluye novedades y mejoras importantes. Actualiza desde Play Store.",
+      "date_es": "septiembre de 2026",
+      "title_ru": "Версия 1.3.1 уже доступна!",
+      "body_ru": "В ней новые возможности и важные улучшения. Обновите приложение в Google Play.",
+      "date_ru": "сентябрь 2026",
+      "title_ar": "الإصدار 1.3.1 متاح الآن!",
+      "body_ar": "يتضمّن ميزات جديدة وتحسينات مهمّة. يمكنك التحديث من متجر Play.",
+      "date_ar": "سبتمبر 2026",
+      "title_ur": "ورژن 1.3.1 آ گیا!",
+      "body_ur": "اس میں نئی خصوصیات اور اہم بہتریاں شامل ہیں۔ آپ Play Store سے اپ ڈیٹ کر سکتے ہیں۔",
+      "date_ur": "ستمبر 2026"
+    }
+  ]
 }
