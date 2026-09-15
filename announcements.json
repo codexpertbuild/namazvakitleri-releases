@@ -1,12 +1,17 @@
 {
   "announcements": [
     {
-      "id": "onerilerinizi-bekliyoruz-2",
-      "active": false,
+      "id": "haritalar-3",
+      "active": true,
       "audience": "debug",
       "notify": true,
-      "date": "Eylül 2026",
-      "title": "Önerilerinizi bekliyoruz!-2",
+      "bypass": [
+        "ezan",
+        "okundu",
+        "bildirildi"
+      ],
+      "date": "Ekim 2026",
+      "title": "Haritaları denediniz mi?",
       "body": "Uygulamanın geliştirilmesi için fikirlerinize önem veriyoruz, bizlere ulaşabilirsiniz teşekkürler.-2",
       "clear_on_action": true
     },
