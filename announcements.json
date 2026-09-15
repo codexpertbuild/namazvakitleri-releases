@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": "yoksay-denemesi",
+      "active": true,
+      "audience": "debug",
+      "notify": true,
+      "bypass": [
+        "ezan",
+        "okundu",
+        "bildirildi"
+      ],
+      "date": "Eylül 2026",
+      "title": "Yoksay denemesi",
+      "body": "Mouse sol el ile zor kullanılıyor."
+    },
+    {
       "id": "yeni-surum-1-3-1-yayinda",
       "active": true,
       "audience": "all",
