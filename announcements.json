@@ -31,22 +31,6 @@
       "body": "Premium'unuza yeni bir özellik eklendi: buraya özelliğin adı ve tek cümlelik faydası. Hayırlı olsun.",
       "title_en": "New in your Premium",
       "body_en": "A new feature has been added to your Premium: feature name and its benefit in one sentence. Enjoy."
-    },
-    {
-      "id": "sablon-kandil-tebrigi",
-      "active": false,
-      "audience": "all",
-      "type": "update",
-      "notify": true,
-      "date": "Ay Yıl",
-      "title": "Kandiliniz mübarek olsun",
-      "body": "Bu mübarek gecenin size ve sevdiklerinize huzur getirmesini dileriz.",
-      "title_en": "Blessed night",
-      "body_en": "May this blessed night bring peace to you and your loved ones.",
-      "title_ar": "ليلة مباركة",
-      "body_ar": "نسأل الله أن تحمل هذه الليلة المباركة السكينة لكم ولأحبتكم.",
-      "title_ur": "مبارک رات",
-      "body_ur": "دعا ہے کہ یہ مبارک رات آپ اور آپ کے پیاروں کے لیے سکون لائے۔"
     }
   ]
 }
