@@ -1,24 +1,3 @@
 {
-  "announcements": [
-    {
-      "id": "hosgeldin-lansman",
-      "active": false,
-      "audience": "all",
-      "type": "update",
-      "notify": false,
-      "date": "Temmuz 2026",
-      "title": "Tam Zamanı yayında",
-      "body": "Uygulamamız Google Play'de yayında. Görüş ve önerilerinizi iletişim sayfasından bekliyoruz; her e-postayı tek tek okuyoruz.",
-      "title_en": "Tam Zamanı is live",
-      "body_en": "The app is now on Google Play. Share your thoughts through the contact page; we read every email one by one.",
-      "title_de": "Tam Zamanı ist da",
-      "body_de": "Die App ist jetzt bei Google Play. Teilen Sie uns Ihre Wünsche über die Kontaktseite mit; wir lesen jede E-Mail.",
-      "title_ru": "Tam Zamanı уже доступно",
-      "body_ru": "Приложение вышло в Google Play. Делитесь пожеланиями через страницу контактов; мы читаем каждое письмо.",
-      "title_ar": "تطبيق Tam Zamanı متاح الآن",
-      "body_ar": "التطبيق متاح الآن على Google Play. شاركونا آراءكم عبر صفحة التواصل؛ نقرأ كل رسالة.",
-      "title_ur": "Tam Zamanı اب دستیاب ہے",
-      "body_ur": "ایپ اب Google Play پر ہے۔ رابطہ صفحے سے اپنی رائے بھیجیں؛ ہم ہر ای میل پڑھتے ہیں۔"
-    }
-  ]
+  "announcements": []
 }
