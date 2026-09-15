@@ -1,6 +1,23 @@
 {
   "announcements": [
     {
+      "id": "test-bildirimi",
+      "active": false,
+      "audience": "debug",
+      "notify": true,
+      "bypass": [
+        "ezan",
+        "okundu",
+        "bildirildi"
+      ],
+      "date": "Eylül 2026",
+      "title": "Test bildirimi.",
+      "body": "Deneme amaçlı gönderilmiştir.Dikkate almayınız.",
+      "debug_active": true,
+      "link": "https://play.google.com/store/apps/details?id=com.codexpert.namazvakitleri&hl=en-US&ah=wePgLPgXsOFWU1mHX8NrL9m8Lmk",
+      "link_label": "Bağlantıyı aç"
+    },
+    {
       "id": "yeni-surum-1-3-1-yayinda",
       "active": true,
       "audience": "all",
