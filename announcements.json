@@ -21,18 +21,6 @@
       "body_ur": "ایپ اب Google Play پر ہے۔ رابطہ صفحے سے اپنی رائے بھیجیں؛ ہم ہر ای میل پڑھتے ہیں۔"
     },
     {
-      "id": "sablon-ozellik-vitrini-free",
-      "active": false,
-      "audience": "free",
-      "type": "update",
-      "notify": false,
-      "date": "Ay Yıl",
-      "title": "Canlı Vakit Takibi",
-      "body": "Vakte kalan süre bildirim çubuğunda canlı bar ile akıyor. Premium ve denemede açık.",
-      "title_en": "Live Prayer Countdown",
-      "body_en": "The time left to the next prayer flows as a live bar in your notifications. Available in Premium and trial."
-    },
-    {
       "id": "sablon-premium-tesekkur",
       "active": false,
       "audience": "premium",
