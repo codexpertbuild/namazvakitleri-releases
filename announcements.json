@@ -1,3 +1,49 @@
 {
-  "announcements": []
+  "announcements": [
+    {
+      "id": "bildirimler-gec-mi-geliyor",
+      "active": false,
+      "audience": "debug",
+      "notify": false,
+      "date": "Eylül 2026",
+      "title": "Bildirimler geç mi geliyor?",
+      "body": "Telefonunuz pil tasarrufu için uygulamayı kısıtlıyor olabilir. Ayarlar'daki Bildirim Sağlığı bölümünden tek dokunuşla izin verebilirsiniz.",
+      "debug_active": true,
+      "kosul": {
+        "pil_muafiyeti": "kapali",
+        "min_acilis": 2
+      },
+      "action": "bildirim_sagligi",
+      "action_label": "Bildirim Sağlığı'nı aç",
+      "clear_on_action": true,
+      "title_en": "Notifications arriving late?",
+      "body_en": "Your phone may be restricting the app to save battery. You can allow it in one tap from Notification Health in Settings.",
+      "date_en": "September 2026",
+      "action_label_en": "Open Notification Health",
+      "title_de": "Benachrichtigungen kommen zu spät?",
+      "body_de": "Ihr Telefon schränkt die App womöglich zum Energiesparen ein. Unter Einstellungen → Benachrichtigungsstatus erlauben Sie das mit einem Tippen.",
+      "date_de": "September 2026",
+      "action_label_de": "Status öffnen",
+      "title_fr": "Vos notifications arrivent en retard ?",
+      "body_fr": "Votre téléphone limite peut-être l'application pour économiser la batterie. Autorisez-la en un geste depuis État des notifications dans les Réglages.",
+      "date_fr": "Septembre 2026",
+      "action_label_fr": "Ouvrir l'état",
+      "title_es": "¿Las notificaciones llegan tarde?",
+      "body_es": "Puede que su teléfono esté restringiendo la aplicación para ahorrar batería. Permítalo con un toque desde Estado de notificaciones en Ajustes.",
+      "date_es": "Septiembre de 2026",
+      "action_label_es": "Abrir el estado",
+      "title_ru": "Уведомления приходят с опозданием?",
+      "body_ru": "Возможно, телефон ограничивает приложение ради экономии заряда. Разрешить можно одним касанием: «Настройки» → «Состояние уведомлений».",
+      "date_ru": "Сентябрь 2026",
+      "action_label_ru": "Открыть состояние",
+      "title_ar": "هل تصلك الإشعارات متأخرة؟",
+      "body_ar": "قد يقيّد هاتفك التطبيق لتوفير البطارية. يمكنك السماح له بلمسة واحدة من «سلامة الإشعارات» في الإعدادات.",
+      "date_ar": "سبتمبر ٢٠٢٦",
+      "action_label_ar": "فتح سلامة الإشعارات",
+      "title_ur": "کیا اطلاعات دیر سے آ رہی ہیں؟",
+      "body_ur": "ممکن ہے آپ کا فون بیٹری بچانے کے لیے ایپ کو محدود کر رہا ہو۔ ترتیبات میں «اطلاعات کی صحت» سے ایک ٹچ میں اجازت دے سکتے ہیں۔",
+      "date_ur": "ستمبر ٢٠٢٦",
+      "action_label_ur": "اطلاعات کی صحت کھولیں"
+    }
+  ]
 }
