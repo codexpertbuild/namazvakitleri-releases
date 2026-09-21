@@ -5,7 +5,7 @@
       "active": true,
       "audience": "all",
       "notify": false,
-      "date": "Eylül 2026",
+      "date": "",
       "title": "Bildirimler geç mi geliyor?",
       "body": "Telefonunuz, pil tasarrufu amacıyla uygulamanın çalışmasını kısıtlıyor olabilir. Ayarlar > Bildirim Sağlığı bölümünden kontrol edebilirsiniz. Pil optimizasyonu açıksa kapatmanız önerilir.",
       "kosul": {
