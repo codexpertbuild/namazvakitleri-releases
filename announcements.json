@@ -13,7 +13,7 @@
         "min_acilis": 2
       },
       "action": "bildirim_sagligi",
-      "action_label": "Tamam",
+      "action_label": "Bildirim Sağlığı'nı aç",
       "clear_on_action": true,
       "title_en": "Notifications arriving late?",
       "body_en": "Your phone may be limiting the app to save power. Check Settings > Notifications > Notification health. If battery optimization is on, we recommend turning it off.",
