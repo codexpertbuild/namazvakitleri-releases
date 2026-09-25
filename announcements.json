@@ -43,7 +43,7 @@
       "body": "Telefonunuz, pil tasarrufu için uygulamanın çalışmasını kısıtlıyor olabilir. Bildirim Sağlığı'ndan kontrol edebilirsiniz; pil optimizasyonu açıksa, bildirimlerin gecikmemesi için kapatmanızı öneririz.",
       "kosul": {
         "pil_muafiyeti": "kapali",
-        "min_acilis": 2
+        "min_acilis": 5
       },
       "action": "bildirim_sagligi",
       "action_label": "Bildirim Sağlığı'nı aç",
