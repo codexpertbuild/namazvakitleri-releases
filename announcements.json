@@ -2,7 +2,7 @@
   "announcements": [
     {
       "id": "surum-1-4-0",
-      "active": false,
+      "active": true,
       "audience": "all",
       "notify": true,
       "date": "",
